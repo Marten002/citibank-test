@@ -1,0 +1,23 @@
+{
+  "name": "citybank",
+  "version": "1.0.0",
+  "description": "test work for citybank",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch"
+  },
+  "keywords": [
+    "gulp",
+    "js"
+  ],
+  "author": "Dmitrii Gubin",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-watch": "^5.0.1"
+  }
+}
